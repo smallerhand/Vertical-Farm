@@ -3,3 +3,5 @@ Grow quality food, By automatic process, Inside the building. (We are studying a
 
 ![book1](./Books/led%20grow%20book.png)
 <img src="./Books/led%20grow%20book.png" alt="Drawing" style="width: 10"/>
+[smile]: ./Books/led%20grow%20book.png
+{: height="36px" width="36px"}
