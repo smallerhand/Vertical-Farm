@@ -7,7 +7,7 @@ Grow quality food, By automatic process, Inside the building. (We are studying a
  <img src="./Books/led%20grow%20book.png" width="200">
 
 ### 2. PLANT FACTORY
- <img src="./Books/plant%factory.png" width="200">
- 
+ <img src="./Books/plant%20factory.png" width="200">
+
 ### 3. VERTICAL FARM
- <img src="./Books/vertical%farm.png" width="200">
+ <img src="./Books/vertical%20farm.png" width="200">
