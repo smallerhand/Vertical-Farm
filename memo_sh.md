@@ -35,16 +35,18 @@ Bring out your dead! The ceaseless chant of doom echoed through a city of emptie
 ### Michael Balter, Plant Science : Seeking Agriculture's Ancient Roots
 <pre>
 https://ay14-15.moodle.wisc.edu/prod/pluginfile.php/59472/mod_resource/content/0/Balter2007SeekingAgriculturesAncientRoots.pdf
+
 </pre>
 
 ### Mazoyer, A History of World Agriculture : From the Neolithic Age to the current crisis
 <pre>
+http://base.dnsgb.com.ua/files/book/Agriculture/History-of-Agriculture/A-History-of-World-Agriculture.pdf
 
 </pre>
 
-### http://esciencenews.com/articles/2009/03/23/researchers.find.earliest.evidence.domesticated.maize
+### Researchers find the earliest evidence of domesticated maize
 <pre>
-Researchers find the earliest evidence of domesticated maize
+http://esciencenews.com/articles/2009/03/23/researchers.find.earliest.evidence.domesticated.maize
 
 </pre>
 
