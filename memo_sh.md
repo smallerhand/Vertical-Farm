@@ -24,6 +24,11 @@ Bring out your dead! The ceaseless chant of doom echoed through a city of emptie
 하지만 리처드 도킨스를 비롯한 주류 생물학계에서는 냉담하게 반응한다. 도킨스는 자연선택은 이기성과 맹목성에 이끌려서 진행된다면서 강력하게 반박했고, 《풀리는 무지개》에서 러브록과 마굴리스를 ‘나쁜 시적 과학’의 예시 중 하나로 비판했다.
 (from wikipedia)
 </p>
+<pre>
+리처드 도킨스 등 주류과학계와 비교하며 읽기
+https://www.dailymotion.com/video/x1jprj5
+https://www.youtube.com/watch?v=QqwZJDEZ9Ng
+</pre>
 
 ### William McDonough, Cradle to Cradle
 <pre>
