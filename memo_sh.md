@@ -41,14 +41,28 @@ http://news.joins.com/article/140603
 <p>
 환경과 산업이 대립된다는 인식이 팽배하다.
 산업혁명기의 디자인(요람에서 무덤으로 모델) 이 제조업을 지배하고 있다.
+저자들이 제시하는 새로운 디자인(생태적 효과성)
+- 소비하는 것보다 더 많은 에너지를 만들어내고, 소모하는 물을 스스로 정화시키는, 마치 나무와 같은 건물을 짓자.
+- 방출하는 폐수가 너무 맑고 깨끗해 식수로 사용할 수 있는 공장을 세우자.
+- 다 사용하고 나면 쓸모 없는 폐기물이 되는 것이 아니라, 땅에서 잘 썩어 동식물의 먹이나 토양의 영양소가 되는 제품을 만들자. 또는 다시 산업계의 순환을 따라 새로운 제품을 만들 수 있는 고품질의 재료로 다시 탄생할 수 있는 제품을 만들자.
+- 매년 인간과 자연을 위해 수억, 수조 달러의 가치를 재생산해내는 원료를 개발하자.
+- 재화와 서비스 전달 과정에서 삶의 질을 고양시켜줄 수 있는 교통체계를 수립하자.
+- 자원은 한정적이고 쓰레기와 오염 물질이 넘치는 세상이 아니라 즐거움이 넘치는 세상을 만들자.
+
+요람에서 요람으로 라는 자연의 시스템은 폐기물이라는 개념이 존재하지 않음.
 </p>
 
 
 
 ### McHarg, Design with Nature
 <pre>
-
+https://www.youtube.com/watch?v=6PfcKtcc_jA
+https://www.youtube.com/watch?v=kDpKmZE8Hok
 </pre>
+<p>
+Since the early 1970s, Ian McHarg’s design-with-nature concept has been inspiring landscape architects, community and regional planners, and liked-minded professionals to create designs that take advantage of ecosystem services and promote environmental and public health. This study bridges the gap in the literature that has resulted from a lack of empirical examinations on the multiple performance benefits derived through design-with-nature and the under-investigated social aspect emanated from McHarg’s Ecological Determinism design approach. The Woodlands, TX, USA, an ecologically designed community development under McHarg’s approach, is compared with two adjacent communities that follow the conventional design approach. Using national environmental databases and multiple-year residents’ survey information, this study assesses three landscape performance metrics of McHarg’s approach: stormwater runoff, urban heat island effect, and social acceptance. Geographic Information Systems (GIS) was used to assess the development extent and land surface temperature distribution. Results show that McHarg’s approach demonstrates benefits in reducing runoff and urban heat island effect, whereas it confronts challenges with the general acceptance of manicured landscapes and thus results in a low safety perception level when residents interact with naturally designed landscapes. The authors argue that design-with-nature warrants multifunctionality because of its intrinsic interdisciplinary approach. Moreover, education and dissemination of successful examples can achieve a greater level of awareness among the public and further promote multifunctional design for landscape sustainability.
+(Design-with-Nature for Multifunctional Landscapes: Environmental Benefits and Social Barriers in Community Development)
+</p>
 
 ## Chapter 2. Yesterday's Agriculture
 
