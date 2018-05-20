@@ -1,4 +1,12 @@
 # Vertical Farm
+<pre>
+https://en.wikipedia.org/wiki/Dickson_Despommier
+https://www.youtube.com/watch?v=1clRcxZS52s
+https://www.youtube.com/watch?v=b1wQ2LXeF-k
+https://www.youtube.com/watch?v=XIdP00u2KRA
+https://inhabitat.com/review-amp-interview-the-vertical-farm-by-dick-despommier/
+https://ses.library.usyd.edu.au/bitstream/2123/5539/2/Final1.pdf
+</pre>
 ## Chapter 1. Remodeling Nature
 
 ### Daniel Defoe, A Journal of the Plagur Years by a Citizen Who All the while continued to live in London
@@ -81,7 +89,7 @@ http://base.dnsgb.com.ua/files/book/Agriculture/History-of-Agriculture/A-History
 ### Researchers find the earliest evidence of domesticated maize
 <pre>
 http://esciencenews.com/articles/2009/03/23/researchers.find.earliest.evidence.domesticated.maize
-
+http://www.pnas.org/content/pnas/98/4/2101.full.pdf
 </pre>
 
 ## Chapter 3. Today's Agriculture
