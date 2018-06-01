@@ -93,6 +93,37 @@ http://www.pnas.org/content/pnas/98/4/2101.full.pdf
 </pre>
 
 ## Chapter 3. Today's Agriculture
+<p>
+21세기 농업의 기원 : 미국 남북 전쟁, 석유 발견, 내연 기관의 개발 및 다이나마이트의 발명
+<br>
+The Civil War was a fight to the finish over the right to control what happened to the country’s cotton crop, the South’s main agricultural product. ... New England–based textile and clothing manufacturers wanted unlimited access to the gin-milled cotton and wanted it on their own terms, while the Southern cotton growers wanted the best price for their harvest, no matter who bought it. Conflict ensued, big time. The South ended up selling most of its cotton production to Europe at substantially higher prices than the Northern industrialists could or would agree to pay. In either case, the Yankees reacted quite negatively to Dixie entrepreneurship. For the Southern plantation owners, labor was dirt cheap, enabling them to achieve outrageous returns on their harvests. That’s because they relied on slaves brought over mainly from West Africa as their primary labor force, although indentured white farmworkers were plentiful, too. Besides providing a reliable work force, slaves from West Africa did one other thing that would eventually bring about another remarkable change to the New World: They introduced hookworm parasites into American soil. As the savagely fought conflict progressed year after year, army recruiters began to feel an increasing lack of support throughout most of the North. A rallying slogan was what was called for.
+<br>
+...
+<br>
+If the South was ever to rise again as an agricultural force to be dealt with (and rise it did), then a new way of farming had to be invented. Enter the discovery of oil and the development of the internal-combustion combustion engine. A political battle for economic supremacy became the singular event that eventually forced Southern landowners to switch to mechanized farming equipment, replacing human labor with gas-guzzling clunkers. It would be the machines, and the many agricultural innovations that took advantage of them, that helped define the second great agricultural revolution.
+<br>
+...
+<br>
+It rapidly became the explosive of choice for clearing land.
+<br>
+...
+<br>
+To compensate for the diversion of fresh and value-added produce to the military, ordinary citizens began growing their own food. Victory gardens sprang up everywhere conditions permitted, and the result was that Americans relearned the value of a freshly picked ripe tomato. The war created another unintended agricultural opportunity, too. American supply convoys destined for the Pacific Theater of Operations encountered Japanese submarines, and the U.S. ships were sitting ducks. Huge quantities of supplies of all kinds were lost, including K rations. It’s not obvious who got the idea first, but many a commanding officer issued the order to establish hydroponic facilities on several of the captured islands. It is estimated that during the war, as much as eight thousand tons of fresh veggies were made available for Allied troops this way, helping to offset the losses suffered at sea. After the war, hydroponics was discarded, forgotten entirely, as America turned its attention to growing crops on the land that was to become the site of the greatest agricultural initiative on earth. The baby boomers were now in their early teens and more interested in going to college than in staying down on the family farm. Apparently, this had little effect on the restarting of the U.S. food “machine.” Despite all its attendant horrors, the war had proved advantageous in many respects, including supplying the right moment for the innovation needed to fully mechanize an entire country’s armed forces. One group in particular was outstanding in this respect: the Construction Battalions known to everyone as the “Seabees.” This naval group was highly decorated for its clever and efficient use of construction technologies. Using cutting-edge earth-moving machinery perfected during the early phases of the war, the Seabees rapidly adapted them to the efficient conversion of native jungle into barracks, and even small cities. They became particularly adept at remodeling even the most hostile terrain into flat airfields. After the war ended, these same methods were applied to land that before the war was considered highly unsuited for any kind of agriculture, easily transforming it into productive farmland using mammoth earth movers and massive tractors fitted with all kinds of front-loading devices. Farming was coming of age in the new industrial-military complex of postwar Europe and the United States. Good-bye wetlands, hello corn and cotton fields. In filling in many of the swamps in the American Southeast, we also got rid of malaria for good in this country.
+<br>
+If people are starving, and indeed they are, then it’s due entirely to issues related to maldistribution and mean-spirited politics, not actual crop shortages. That is largely because we have learned how to force every last radish, ear of corn, head of lettuce, strawberry, and everything else we grow from land that was never biologically able to do so without our help.
+<br>
+...
+<br>
+Every bit of today’s farming in the developed world is driven by technology. New kinds of farm equipment, new planting strategies, global-positioning systems for microcrop selection, and other high-tech approaches have extended the life of most soils far beyond their natural carrying capacity for producing, regardless of the crop in question. Research results from numerous graduate schools of agriculture throughout the world have led the way in changing what once was a hit-or-miss situation with regard to what and where we can farm into a predictable science of crop production. The agrochemical industries have been quick to adopt these new findings and have commercialized them to not only help the farmer but also to bolster their own profit margins. The Ag business is booming; fertilizer, herbicide, and pesticide product lines have become their bread and butter. No one denies the fact that these products have helped greatly in ushering in the second green revolution. Yield per acre for nearly every crop improves each year and will likely continue to do so for a few more years in many places. That is not to say that there are no problems looming on the near horizon, even for those fortunate countries with minimal environmental impact on their agricultural industries. But fossil fuels also figure into the equation. Higher yields are linked to increased fossil-fuel use by new farming machines. In the United States, more than 20 percent of all burned fuels goes to agriculture. The price of food is also linked to fossil-fuel use, and in 2008, the cost of food worldwide nearly doubled compared to the year 2000.
+<br>
+...
+<br>
+
+<br>
+...
+<br>
+
+</p>
 ### Rachel Carson, Silent Spring
 <p>
 《침묵의 봄》(Silent Spring)은 1962년 레이철 카슨이 1차 세계대전 이후 미국에서 살포된 살충제나 제초제로 사용된 유독물질이 생태계에 미치는 영향을 분석하여 쓴 책으로, 환경운동이 서양에서 시작하게 되는 계기가 된 책이다. 이 책으로 인하여 1963년 미국의 케네디 대통령은 환경문제를 다룬 자문위원회를 구성하게 되었고, 1969년 미국의회는 DDT가 암을 유발할 수도 있다는 증거를 발표하였고, 1972년 미국 EPA(미 환경부)는 DDT의 사용을 금지하게 되었다.
